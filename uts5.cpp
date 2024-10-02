@@ -6,7 +6,6 @@ double tinggi;
 double imt;
 
 int main(){
-    int tinggi_m;
     int imt_2 = static_cast<int>(imt);
     int berat_ideal = 1;
 
